@@ -1,0 +1,6 @@
+interface:
+  display_name: "Intellectlord's Anti-Slop"
+  short_description: "Block generic UI patterns and fabricated product content"
+  default_prompt: "Use $intellectlords-anti-slop to audit this interface and prevent anti-slop violations from entering the project."
+policy:
+  allow_implicit_invocation: true

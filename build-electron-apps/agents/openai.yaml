@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Electron Apps"
+  short_description: "Build, repair, and verify Electron desktop apps"
+  default_prompt: "Use $build-electron-apps to build or troubleshoot this Electron desktop app through its packaged runtime."

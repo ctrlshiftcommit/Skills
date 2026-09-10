@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Frontend Design"
+  short_description: "Unified product-aware UI/UX and motion guidance"
+  default_prompt: "Use $super-frontend-design to design or improve this interface with a concrete visual direction, design-system reasoning, purposeful motion, responsive accessibility, and production verification."

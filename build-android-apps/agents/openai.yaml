@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Android Apps"
+  short_description: "Build, repair, and verify native Android apps"
+  default_prompt: "Use $build-android-apps to build or troubleshoot this native Android app end to end."

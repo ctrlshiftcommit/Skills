@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Chrome Extensions"
+  short_description: "Build and debug Chrome Manifest V3 extensions"
+  default_prompt: "Use $build-chrome-extensions to build or troubleshoot this Chrome Manifest V3 extension end to end."
