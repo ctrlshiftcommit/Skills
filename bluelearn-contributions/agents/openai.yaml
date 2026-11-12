@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bluelearn Contributions"
+  short_description: "Contribute to Bluelearn with maintainer-aware code and review habits"
+  default_prompt: "Use $bluelearn-contributions for this Bluelearn contribution or pull request review."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "How to Save Tokens on Astra"
+  short_description: "Reduce Astra usage without dropping necessary work"
+  default_prompt: "Use $save-tokens-on-astra to complete this task with focused context, economical delegation, and concise reporting."
